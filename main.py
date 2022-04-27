@@ -1,6 +1,7 @@
 from func import *
 import math
 #commit 1
+#ЛЕНИН
 while True:  # Про switch, case в курсе
     print(
         "0. Exit  "
