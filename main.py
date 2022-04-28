@@ -5,6 +5,7 @@ from functools import reduce
 while True:
     cmd = input("Выберите интересующий вас пункт задания: ")
 #ddfsdf
+    #asdasd
     if cmd == "1":
         def ret(*args):
             a = list()
